@@ -1,3 +1,3 @@
 CMakeFiles/pyflex.dir/imgui.cpp.o: \
- /workspace/softgym/PyFlex/bindings/imgui.cpp \
- /workspace/softgym/PyFlex/bindings/imgui.h
+ /home/transfer/language_deformable/PyFlex/bindings/imgui.cpp \
+ /home/transfer/language_deformable/PyFlex/bindings/imgui.h
